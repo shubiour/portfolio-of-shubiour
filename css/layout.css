@@ -1020,6 +1020,13 @@
 	font-weight: 800;
 }
 
+.resume-item .position {
+	margin: 0 0 20px 0;
+	font-size: 14px;
+	color: #68e0cf;
+	font-weight: 600;
+}
+
 .resume-item .single-post-text > *:last-child {
 	margin-bottom: 0;
 }
